@@ -1,0 +1,10 @@
+{
+  "verdict": "tampered",
+  "confidence": 0.87,
+  "layers": {
+    "ela": 0.81,
+    "noise": 0.74,
+    "copy_move": 0.12
+  },
+  "heatmap_url": null
+}
